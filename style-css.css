@@ -1,0 +1,15 @@
+style-css h2 {
+    size: 30px;
+    color: rgb(250, 248, 248);
+}
+
+head {
+    margin-top: 4cm;
+    margin-right: 4cm;
+}
+
+body {
+    background-color: rgb(133, 38, 0);
+    margin-left: 2cm;
+    text-decoration-color: black
+}
